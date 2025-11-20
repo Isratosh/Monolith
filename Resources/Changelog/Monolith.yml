@@ -14175,3 +14175,10 @@ Entries:
   id: 1571
   time: '2025-11-18T22:50:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2652
+- author: kotobdev
+  changes:
+    - type: Add
+      message: The M92-X, and it's colonel version, have awesome new sprites!
+  id: 1572
+  time: '2025-11-20T13:18:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2654
