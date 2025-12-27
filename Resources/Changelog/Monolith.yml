@@ -15203,3 +15203,10 @@ Entries:
   id: 1686
   time: '2025-12-27T21:03:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2871
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: You can now upgrade artifact scan speed with capacitors
+  id: 1687
+  time: '2025-12-27T21:06:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2861
