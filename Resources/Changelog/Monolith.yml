@@ -15234,3 +15234,10 @@ Entries:
   id: 1689
   time: '2025-12-27T21:08:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2848
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: You can walk through hydroponics trays now!
+  id: 1690
+  time: '2025-12-27T21:09:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2844
