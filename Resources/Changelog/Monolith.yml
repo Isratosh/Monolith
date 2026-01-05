@@ -15804,3 +15804,18 @@ Entries:
   id: 1753
   time: '2026-01-05T16:22:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2942
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: >-
+        Capital ships except for the Saturn, Ledokol and Flyssa now longer
+        require both a gunner and pilot to operate.
+    - type: Tweak
+      message: >-
+        The Europa is now a beefy capital ship with medical and cloning
+        capabilities. She is now restricted to two vessels active at a time, as
+        well as costing 240k. These changes come with the benefit of a heavy
+        upgrade. Glory to Phaethon. 
+  id: 1754
+  time: '2026-01-05T16:53:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2929
