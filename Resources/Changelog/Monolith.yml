@@ -16001,3 +16001,12 @@ Entries:
   id: 1772
   time: '2026-01-09T17:56:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2943
+- author: Greenwall-Exe
+  changes:
+    - type: Add
+      message: Added Baeg Voucher to the Ironman Trait
+    - type: Remove
+      message: The 10k credits from the Ironman Trait
+  id: 1773
+  time: '2026-01-10T02:01:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3000
