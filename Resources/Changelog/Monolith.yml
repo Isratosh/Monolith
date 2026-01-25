@@ -16587,3 +16587,20 @@ Entries:
   id: 1837
   time: '2026-01-25T18:52:51.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3079
+- author: doktor-gonz0
+  changes:
+    - type: Tweak
+      message: >-
+        Hydrakin tail markings were updated, now you can add additional overlay
+        colours to some of them. The miscellaneous head markings were moved to
+        Head(Side) section, so you can actually combine eyes and other markings
+        now.
+    - type: Add
+      message: Hydrakin can trill and wurble now.
+    - type: Add
+      message: Hydrakin cooldown action has a proper icon now.
+    - type: Add
+      message: All hydrakin emotes have sounds now.
+  id: 1838
+  time: '2026-01-25T19:06:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3080
