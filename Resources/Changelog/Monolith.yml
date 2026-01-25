@@ -16545,3 +16545,12 @@ Entries:
   id: 1833
   time: '2026-01-25T17:36:30.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3113
+- author: Helicaste
+  changes:
+    - type: Tweak
+      message: >-
+        Ship shielding now offers protection from ramming attacks based on what
+        shield you have. Break the shield before going for a kamikaze strike.
+  id: 1834
+  time: '2026-01-25T18:29:25.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3051
