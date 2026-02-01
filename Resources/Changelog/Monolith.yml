@@ -16862,3 +16862,12 @@ Entries:
   id: 1865
   time: '2026-02-01T18:47:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3133
+- author: Helicaste
+  changes:
+    - type: Add
+      message: >-
+        Big Ammo Boxes are now printable, gated behind T2 Matsci prerequisite
+        technology or the applicable faction technology.
+  id: 1866
+  time: '2026-02-01T18:48:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3142
