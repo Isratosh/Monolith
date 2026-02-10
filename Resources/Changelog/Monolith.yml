@@ -17063,3 +17063,10 @@ Entries:
   id: 1885
   time: '2026-02-10T12:43:36.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3197
+- author: Kiithnaras
+  changes:
+    - type: Fix
+      message: Fixed diamond exo-drills not drilling hard rocks.
+  id: 1886
+  time: '2026-02-10T15:03:44.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3194
